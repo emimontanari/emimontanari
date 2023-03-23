@@ -1,5 +1,7 @@
 ## console.log('Hi, I'm Emiliano Montanari!👋')
-¡Hola a todos! Me llamo Emiliano Montanari. <br>Soy un programador Full Stack con habilidades en diversos lenguajes de programación y me especializo en el desarrollo web. Actualmente estoy trabajo con tecnologías populares como React, Node.js, Express.js y MongoDB.<br>Mantenerme actualizado en cuanto a las últimas tendencias y avances tecnológicos es algo que me motiva y me gusta mucho. Siempre estoy buscando nuevas oportunidades y desafíos que me permitan seguir creciendo profesionalmente y expandir mi conocimiento en el desarrollo web.
+Hi everyone! My name is Emiliano Montanari.
+I am a Full Stack programmer with skills in various programming languages and I specialize in web development. Currently, I am working with popular technologies such as React, Node.js, Express.js, and MongoDB.
+Keeping myself up to date with the latest trends and technological advances is something that motivates me and I enjoy a lot. I am always looking for new opportunities and challenges that allow me to continue growing professionally and expanding my knowledge in web development.
 
 
 ## 🌐 Socials:
