@@ -1,6 +1,6 @@
 ## console.log('Hi, I'm Emiliano Montanari!👋')
 Hi everyone! My name is Emiliano Montanari.
-I am a Full Stack programmer with skills in various programming languages and I specialize in web development. Currently, I am working with popular technologies such as React, Node.js, Express.js, and MongoDB.
+I am a Full Stack programmer with skills in various programming languages and I specialize in web development.
 Keeping myself up to date with the latest trends and technological advances is something that motivates me and I enjoy a lot. I am always looking for new opportunities and challenges that allow me to continue growing professionally and expanding my knowledge in web development.
 
 
